@@ -1,8 +1,8 @@
 class Gls < Formula
   desc "Tyler File List"
   homepage "https://github.com/ki-aura/gls"
-  url "https://github.com/ki-aura/gls/archive/refs/tags/v1.2.0.tar.gz"
-  sha256 "6da06a78eb7911a53d9b9c5abfd5102f2cfba3aef3a7474b8a2ca5edab491e23"
+  url "https://github.com/ki-aura/gls/archive/refs/tags/v1.3.0.tar.gz"
+  sha256 "ff74ef3ee6793b36d41d9ee1873ca2c9d61c235bd2a72fc0ee697923671375a9"
   license "MIT"
 
   def install
